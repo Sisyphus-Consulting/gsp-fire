@@ -1,5 +1,18 @@
 source "https://rubygems.org"
 
-gem "webrick", "~> 1.7"
-gem "jekyll", "~> 4.3"
-gem "jekyll-environment-variables"
+group :jekyll_plugins do
+  gem "jekyll"
+  gem "github-pages"
+  gem "jekyll-sitemap"
+  gem 'jekyll-seo-tag'
+  gem "jekyll-livereload"
+end
+group :development do
+    # Only used locally
+end
+
+gem 'faraday-retry'
+gem "wdm", "~> 0.1.1"
+gem "webrick", "~> 1.9"
+gem "jekyll-sass-converter"
+

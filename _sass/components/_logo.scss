@@ -1,14 +1,15 @@
 .logo {
-  display: none;
+  display: flex;
+  align-items: center;
   @include media-breakpoint-up(sm) {
-    display: block;
+    display: flex;
   }
   img {
     max-width: unset;
   }
   a {
     display: block;
-    width: 100%;
+    width: auto;
     height: 100%;
   }
 }
