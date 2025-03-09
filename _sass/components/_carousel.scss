@@ -1,0 +1,24 @@
+.carousel {
+  overflow: hidden;
+  width: 100%; /* Full width */
+  max-width: 960px; /* Optional */
+  margin: auto;
+  padding: 10px 0;
+}
+
+.carousel-track {
+  display: flex;
+  gap: 50px; /* Space between logos */
+  animation: scroll 30s linear infinite;
+  width: max-content; /* Trick: Let the content define its own width */
+}
+
+.carousel-track img {
+  height: 100px; /* Logo size */
+  object-fit: contain; /* Keep aspect ratio */
+}
+
+@keyframes scroll {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-50%); } /* Only move half because logos repeat */
+}
