@@ -74,6 +74,7 @@ $sub-footer-text-color: $white;
 // @import "bootstrap/spinners";
 // @import "bootstrap/offcanvas";
 // @import "bootstrap/placeholders";
+@import "bootstrap/utilities";
 
 // 5. Include Bootstrap helpers and utilities
 @import "bootstrap/helpers";
@@ -100,6 +101,9 @@ $sub-footer-text-color: $white;
 @import "components/intro-image";
 @import "components/strip";
 @import "components/feature";
+@import "components/services";
+@import "components/carousel";
+@import "components/utilities";
 // @import "components/social";
 // @import "components/fonts"; // Uncomment this line to self host font
 
