@@ -1,11 +1,12 @@
-baseurl: '/'
+baseurl: ""
+url: "https://gspfire.com"
 permalink: pretty
-title: 'GSP Fire Safety and Systems'
+title: 'GSP Fire and Safety Systems'
 
 logo:
-  mobile: "images/logo/logo-mobile.svg"
-  mobile_height: "32px"
-  mobile_width: "32px"
+  # mobile: "images/logo/logo-mobile.svg"
+  # mobile_height: "32px"
+  # mobile_width: "32px"
   desktop: "images/logo/logo.svg"
   desktop_height: "64px"
   desktop_width: "80px"
