@@ -8,6 +8,8 @@ intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# See Fire? Think GSP.
+# Stay Safe.
+# Stay Prepared.
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Choose GSP Fire and Safety Systems.
+Your go-to fire and safety solution provider.
