@@ -29,6 +29,6 @@ jobs:
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          personal_token: ${{ secrets.PAT }}  # Changed from github_token to personal_token
           publish_dir: ./_site
           cname: gspfire.com
