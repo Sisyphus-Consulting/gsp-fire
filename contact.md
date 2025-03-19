@@ -23,7 +23,7 @@ Shop No. GF-47,
 Vijay Plaza,
 Opposite Abad Dairy,
 Opposite Eka Club,
-Git Mandir Road,
+Gita Mandir Road,
 Ahmedabad - 380022
 
 Follow this "DTDC Kalupur" landmark to reach our office.
