@@ -2,7 +2,7 @@
 title: "Fire and Safety Equipment"
 date: 2019-02-28T15:15:34+10:00
 description: "Equip yourself with essential fire safety tools and gear. From PPE to safety signs, our high-quality products ensure compliance and protection in emergencies."
-image: "images/products/safety-equipment-1.jpg"
+image: "images/products/safety-equipment-1.webp"
 weight: 6
 ---
 

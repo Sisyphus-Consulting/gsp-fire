@@ -2,7 +2,7 @@
 title: "Fire Alarm & Smoke Detection Systems"
 date: 2019-01-28T15:15:26+10:00
 description: "Early detection saves lives. Our advanced fire alarm and smoke detection systems provide instant alerts, ensuring swift action and safety during emergencies."
-image: "images/products/fire-alarm-1.png"
+image: "images/products/fire-alarm-1.webp"
 weight: 3
 ---
 

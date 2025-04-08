@@ -2,7 +2,7 @@
 title: "Fire Safety Training Programs"
 date: 2019-02-28T15:15:34+10:00
 description: "Empower your team with our fire safety training programs. Learn fire types, extinguisher use, and evacuation protocols to build a culture of safety."
-image: "images/products/fire-safety-1.jpg"
+image: "images/products/fire-safety-1.webp"
 weight: 5
 ---
 

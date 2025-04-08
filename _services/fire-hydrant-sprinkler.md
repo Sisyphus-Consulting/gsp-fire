@@ -2,7 +2,7 @@
 title: "Fire Hydrant & Sprinkler Systems"
 date: 2018-11-18T12:33:46+10:00
 description: "Protect lives and property with our expertly designed fire hydrant and sprinkler systems. From installation to testing, we ensure rapid response and compliance with the highest safety standards."
-image: "/images/products/fire-hydrant-systems-1.jpeg"
+image: "/images/products/fire-hydrant-systems-1.webp"
 weight: 1
 ---
 

@@ -2,7 +2,7 @@
 title: "Access Control & CCTV Systems"
 date: 2019-05-18T12:33:46+10:00
 description: "Enhance security with our advanced access control and CCTV systems. Customized solutions for businesses of all sizes, ensuring 24/7 protection and peace of mind."
-image: "images/products/access-control-1.jpg"
+image: "images/products/access-control-1.webp"
 weight: 4
 ---
 

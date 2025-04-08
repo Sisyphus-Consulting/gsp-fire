@@ -2,7 +2,7 @@
 title: "Fire Extinguishers"
 date: 2018-12-28T15:14:39+10:00
 description: "Be prepared for any fire emergency with our range of portable extinguishers. Designed for different fire types, they’re your first line of defense against small fires."
-image: "images/products/fire-extinguishers-1.png"
+image: "images/products/fire-extinguishers-1.webp"
 weight: 2
 ---
 
